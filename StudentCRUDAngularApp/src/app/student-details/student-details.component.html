@@ -1,0 +1,38 @@
+<div class="alert bg-info text-white py-3">
+    <h2 class="text-center">.Net Web API Angular CRUD App!</h2>  
+    <p class="text-center display-4">Student Information Entry</p>
+</div>
+<br/>
+<div class="row">
+    <div class="col-md-6  form-group">
+        <app-student-detail-form></app-student-detail-form>
+    </div>
+    <div class="col-md-6">
+        <div class="form-group text-right">
+            <input type="button" value="Download PDF" class="btn btn-danger btn-sm" (click)="SavePDF()">
+            <input type="button" value="Download Excel" class="btn btn-primary btn-sm offset-sm-1" (click)="SaveExcel()">
+        </div>
+        <table class="table table-bordered table-hover" id="content" #content>
+            <thead class="thead-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Reg-No</th>
+                    <th>Roll-No</th>
+                    <th>Department</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let sd of service.list">
+                    <td (click)="populateForm(sd)">{{sd.name}}</td>
+                    <td (click)="populateForm(sd)">{{sd.regNo}}</td>
+                    <td (click)="populateForm(sd)">{{sd.rollNo}}</td>
+                    <td (click)="populateForm(sd)">{{sd.department}}</td>
+                    <td>
+                        <i class="far fa-trash-alt fa-lg text-danger" (click)="onDelete(sd.id)"></i>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

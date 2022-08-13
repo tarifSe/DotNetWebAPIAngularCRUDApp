@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+.form-group label{
+    color: black;
+}
+
+form-group input{
+    font-weight: 500;
+}
+
+label tbody tr:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+input.invalid{
+    border-color: red;
+}
+
+table{
+    width: 100%;
+}
+
+table td{
+    width: auto;
+    overflow: hidden;
+    word-wrap: break-word;
+}

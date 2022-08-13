@@ -1,0 +1,30 @@
+<form novalidate #form="ngForm" (submit)="onSubmit(form)" autocomplete="off">
+    <input type="hidden" name="id" [value]="service.formData.id" />
+    <div class="form-group">
+        <label>Student Name</label>
+        <input class="form-control form-control-lg" placeholder="Full Name" name="name" 
+        #name="ngModel" [(ngModel)]="service.formData.name" 
+        required [class.invalid]="name.invalid && name.touched">
+    </div>
+    <div class="form-group">
+        <label>Registration Number</label>
+        <input class="form-control form-control-lg" placeholder="Input Registration Number" 
+        name="regNo" #regNo="ngModel" [(ngModel)]="service.formData.regNo" 
+        required [class.invalid]="regNo.invalid && regNo.touched" >
+    </div>
+    <div class="row">
+        <div class="form-group col-md-6">
+            <label>Roll No</label>
+            <input class="form-control form-control-lg" placeholder="Input Roll No" 
+            name="rollNo" #rollNo="ngModel" [(ngModel)]="service.formData.rollNo" 
+            required [class.invalid]="rollNo.invalid && rollNo.touched">
+        </div>
+        <div class="form-group col-md-6">
+            <label>Department</label>
+            <input class="form-control form-control-lg" placeholder="Input Department Name" 
+            name="department" #department="ngModel" [(ngModel)]="service.formData.department" 
+            required [class.invalid]="department.invalid && department.touched">
+        </div>
+    </div>
+    <button class="btn btn-success btn-block btn-lg" type="submit" [disabled]="form.invalid" >SUBMIT DATA</button>
+</form>
