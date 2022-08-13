@@ -1,0 +1,17 @@
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\bin\Debug\net5.0\StudentAPICRUD.Repository.deps.json
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\bin\Debug\net5.0\StudentAPICRUD.Repository.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\bin\Debug\net5.0\ref\StudentAPICRUD.Repository.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\bin\Debug\net5.0\StudentAPICRUD.Repository.pdb
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\bin\Debug\net5.0\StudentAPICRUD.DatabaseContext.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\bin\Debug\net5.0\StudentAPICRUD.Models.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\bin\Debug\net5.0\StudentAPICRUD.DatabaseContext.pdb
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\bin\Debug\net5.0\StudentAPICRUD.Models.pdb
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\StudentAPICRUD.Repository.csproj.AssemblyReference.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\StudentAPICRUD.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\StudentAPICRUD.Repository.AssemblyInfoInputs.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\StudentAPICRUD.Repository.AssemblyInfo.cs
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\StudentAPICRUD.Repository.csproj.CoreCompileInputs.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\StudentAPICRUD.Repository.csproj.CopyComplete
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\StudentAPICRUD.Repository.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\ref\StudentAPICRUD.Repository.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Repository\obj\Debug\net5.0\StudentAPICRUD.Repository.pdb

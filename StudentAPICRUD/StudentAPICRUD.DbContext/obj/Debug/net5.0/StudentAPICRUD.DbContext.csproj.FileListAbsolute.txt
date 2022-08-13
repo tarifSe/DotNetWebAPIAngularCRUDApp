@@ -1,0 +1,15 @@
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\bin\Debug\net5.0\StudentAPICRUD.DbContext.deps.json
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\bin\Debug\net5.0\StudentAPICRUD.DbContext.runtimeconfig.json
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\bin\Debug\net5.0\StudentAPICRUD.DbContext.runtimeconfig.dev.json
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\bin\Debug\net5.0\StudentAPICRUD.DbContext.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\bin\Debug\net5.0\ref\StudentAPICRUD.DbContext.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\bin\Debug\net5.0\StudentAPICRUD.DbContext.pdb
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\StudentAPICRUD.DbContext.csproj.AssemblyReference.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\StudentAPICRUD.DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\StudentAPICRUD.DbContext.AssemblyInfoInputs.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\StudentAPICRUD.DbContext.AssemblyInfo.cs
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\StudentAPICRUD.DbContext.csproj.CoreCompileInputs.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\StudentAPICRUD.DbContext.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\ref\StudentAPICRUD.DbContext.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\StudentAPICRUD.DbContext.pdb
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.DbContext\obj\Debug\net5.0\StudentAPICRUD.DbContext.genruntimeconfig.cache

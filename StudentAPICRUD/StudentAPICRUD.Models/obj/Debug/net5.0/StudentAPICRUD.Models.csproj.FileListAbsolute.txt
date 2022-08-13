@@ -1,0 +1,12 @@
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\bin\Debug\net5.0\StudentAPICRUD.Models.deps.json
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\bin\Debug\net5.0\StudentAPICRUD.Models.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\bin\Debug\net5.0\ref\StudentAPICRUD.Models.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\bin\Debug\net5.0\StudentAPICRUD.Models.pdb
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\obj\Debug\net5.0\StudentAPICRUD.Models.csproj.AssemblyReference.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\obj\Debug\net5.0\StudentAPICRUD.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\obj\Debug\net5.0\StudentAPICRUD.Models.AssemblyInfoInputs.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\obj\Debug\net5.0\StudentAPICRUD.Models.AssemblyInfo.cs
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\obj\Debug\net5.0\StudentAPICRUD.Models.csproj.CoreCompileInputs.cache
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\obj\Debug\net5.0\StudentAPICRUD.Models.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\obj\Debug\net5.0\ref\StudentAPICRUD.Models.dll
+C:\Users\gmtar\OneDrive\Desktop\CodeTest_PR\StudentAPICRUD\StudentAPICRUD.Models\obj\Debug\net5.0\StudentAPICRUD.Models.pdb

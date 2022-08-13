@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StudentAPICRUD.Models/1.0.0": {
+        "runtime": {
+          "StudentAPICRUD.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentAPICRUD.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
